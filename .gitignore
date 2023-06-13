@@ -1,0 +1,4 @@
+# Environments
+.venv
+# Datasets
+magic04.data
